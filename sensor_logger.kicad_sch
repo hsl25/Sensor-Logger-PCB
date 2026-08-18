@@ -1,0 +1,756 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "a1d8277a-e824-4505-aa36-f5a77bb65b74")
+	(paper "A4")
+	(title_block
+		(title "Sensor Logger PCB")
+		(company "Henoc Lakshman")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 88.9 83.82) (xy 99.06 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3645b058-c14a-47bb-bbed-23dac80f3f6f")
+	)
+	(wire
+		(pts
+			(xy 133.35 118.11) (xy 133.35 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3920642d-8c8f-4912-9f7a-9687e88e8f1d")
+	)
+	(wire
+		(pts
+			(xy 153.67 118.11) (xy 153.67 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cc92350-da44-4480-b0cf-42c5ae5a6ffc")
+	)
+	(wire
+		(pts
+			(xy 140.97 118.11) (xy 140.97 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "433e45de-e0af-4eb7-a0ed-0fb01ce49dbe")
+	)
+	(wire
+		(pts
+			(xy 138.43 118.11) (xy 138.43 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5074cc7a-d584-4a43-8b35-f6cba916abad")
+	)
+	(wire
+		(pts
+			(xy 168.91 83.82) (xy 181.61 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fdc4496-0f94-4096-ba80-bacef62241f0")
+	)
+	(wire
+		(pts
+			(xy 88.9 90.17) (xy 99.06 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64d9898a-1f32-44ab-92d8-6f7d05d222ef")
+	)
+	(wire
+		(pts
+			(xy 88.9 81.28) (xy 99.06 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "796515c1-7939-48c3-a70d-228ba4b465e9")
+	)
+	(wire
+		(pts
+			(xy 88.9 92.71) (xy 99.06 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7babe8fa-02f8-4d77-aef0-12cbeee38360")
+	)
+	(wire
+		(pts
+			(xy 143.51 118.11) (xy 143.51 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83435ca5-e87a-4cb6-a00d-5c9335006ca6")
+	)
+	(wire
+		(pts
+			(xy 168.91 81.28) (xy 181.61 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "986137dc-b40c-4066-b154-7bfe9183455f")
+	)
+	(wire
+		(pts
+			(xy 151.13 118.11) (xy 151.13 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a901fd8e-ac5a-4a63-b788-839ceadf373a")
+	)
+	(wire
+		(pts
+			(xy 88.9 97.79) (xy 99.06 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aad3f542-f562-41a0-aad0-94282bc78ca9")
+	)
+	(wire
+		(pts
+			(xy 125.73 118.11) (xy 125.73 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1e7a12f-e39c-4ce8-880b-b141ab77679f")
+	)
+	(wire
+		(pts
+			(xy 128.27 118.11) (xy 128.27 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b52d52c7-cc89-4f44-be4a-62c703faf95c")
+	)
+	(wire
+		(pts
+			(xy 130.81 118.11) (xy 130.81 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c27eac76-4057-4b79-aedb-321c0bf984b9")
+	)
+	(wire
+		(pts
+			(xy 135.89 118.11) (xy 135.89 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc6954f2-c5a7-4dc5-8d0c-07fb136e2de4")
+	)
+	(sheet
+		(at 19.05 76.2)
+		(size 69.85 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "123559e7-9d50-4e66-9802-576139c9e0ef")
+		(property "Sheetname" "Headers"
+			(at 18.542 74.422 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "headers.kicad_sch"
+			(at 19.05 117.4246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SYS_JTCK-SWCLK" input
+			(at 88.9 90.17 0)
+			(uuid "a840b5c6-8e15-4170-b466-a8bc63110cca")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SYS_JTMS-SWDIO" input
+			(at 88.9 92.71 0)
+			(uuid "96dbcdf2-4d26-4df7-9b77-bdf1f652ecd1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USART1_RX" input
+			(at 88.9 81.28 0)
+			(uuid "675053ad-fe8a-49cb-927c-9271774eeb7e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "USART1_TX" input
+			(at 88.9 83.82 0)
+			(uuid "daf4f81c-c392-4ade-a4d5-bc7ab539fc0f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "NRST" input
+			(at 88.9 97.79 0)
+			(uuid "c3bd0910-d952-46b3-9566-d98de791205d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "sensor_logger"
+				(path "/a1d8277a-e824-4505-aa36-f5a77bb65b74"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 181.61 76.2)
+		(size 73.66 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "16daad19-ab1f-420c-9fb0-28fdca793f21")
+		(property "Sheetname" "LEDs"
+			(at 180.848 72.644 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left)
+			)
+		)
+		(property "Sheetfile" "leds.kicad_sch"
+			(at 182.118 117.856 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FWST" input
+			(at 181.61 81.28 180)
+			(uuid "da0ab2f7-4e71-4966-86f5-bcb35526c31b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "ERROR" input
+			(at 181.61 83.82 180)
+			(uuid "350f8181-f3fc-4802-b2af-b2859f871d8a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "sensor_logger"
+				(path "/a1d8277a-e824-4505-aa36-f5a77bb65b74"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 76.2)
+		(size 69.85 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "34fd1b1e-45a2-4e8c-9bef-9365a24fe442")
+		(property "Sheetname" "STM logic"
+			(at 99.06 74.2184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "stm_logic.kicad_sch"
+			(at 99.06 118.6946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ERROR" input
+			(at 168.91 83.82 0)
+			(uuid "98d81a1e-0e9e-4c29-b6b1-e47ad0f653ec")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FWST" input
+			(at 168.91 81.28 0)
+			(uuid "91bcdbfe-7b9e-43a1-9183-75011cb9954b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SYS_JTCK-SWCLK" input
+			(at 99.06 90.17 180)
+			(uuid "438f5138-dbdd-4908-9b5c-82953e3840f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SYS_JTMS-SWDIO" input
+			(at 99.06 92.71 180)
+			(uuid "6695607d-b98e-48b2-8d53-d46218f6a2df")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO_EXTI1" input
+			(at 151.13 118.11 270)
+			(uuid "f8fdc114-07ad-4b31-bfc4-bd98e248fda6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "GPIO_EXTI2" input
+			(at 153.67 118.11 270)
+			(uuid "4aded1c4-bcb8-4485-9e5f-97d594924a34")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI1_MISO" input
+			(at 125.73 118.11 270)
+			(uuid "5c48f253-e5b9-465a-b175-6ca7e32f86e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI1_MOSI" input
+			(at 128.27 118.11 270)
+			(uuid "7b9facaa-064a-455a-8939-6817de9d8842")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SPI1_SCK" input
+			(at 130.81 118.11 270)
+			(uuid "3e0c0ab0-9c40-4de3-8754-501c066f7e70")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_BL" input
+			(at 133.35 118.11 270)
+			(uuid "bb748dd7-c463-4c95-a480-82ade312c31c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_CS" input
+			(at 135.89 118.11 270)
+			(uuid "3e7fdbeb-bc81-432d-a8e3-e33877e708e6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_D{slash}C" input
+			(at 138.43 118.11 270)
+			(uuid "6b8cb598-7775-4cca-81f5-3323863e1423")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_RST" input
+			(at 140.97 118.11 270)
+			(uuid "04768402-18d4-471e-8030-9ead4be14b42")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TFT_SDCS" input
+			(at 143.51 118.11 270)
+			(uuid "b32b0f0d-37a2-4f40-98c9-fc4f85c8bb09")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USART1_RX" input
+			(at 99.06 81.28 180)
+			(uuid "c3da220d-364d-4e26-b6e4-b89870507667")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "USART1_TX" input
+			(at 99.06 83.82 180)
+			(uuid "1ab5876d-e7c2-4b57-8d64-e6d42136c2b5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "NRST" input
+			(at 99.06 97.79 180)
+			(uuid "653f19ff-742c-4bee-8d6e-3239beb33107")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "sensor_logger"
+				(path "/a1d8277a-e824-4505-aa36-f5a77bb65b74"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 24.13)
+		(size 69.85 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9060c696-ee1e-4618-b212-f7d8c8426f43")
+		(property "Sheetname" "Power"
+			(at 99.06 22.1484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 99.06 65.3546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "sensor_logger"
+				(path "/a1d8277a-e824-4505-aa36-f5a77bb65b74"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 133.35)
+		(size 69.85 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "bb96c56e-d5db-4fe5-af2e-aad316c4a9a8")
+		(property "Sheetname" "Sensors"
+			(at 99.06 131.3684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 3.81 3.81)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 99.06 174.5746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "SPI1_MISO" input
+			(at 125.73 133.35 90)
+			(uuid "f5452a75-fd90-4d8d-8933-b70d21d02680")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI1_MOSI" input
+			(at 128.27 133.35 90)
+			(uuid "e2d98cf4-137d-4a8b-886f-83f76f50f794")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI1_SCK" input
+			(at 130.81 133.35 90)
+			(uuid "80aa376e-8162-456e-a0cc-6fad6fe5f7e4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TFT_BL" input
+			(at 133.35 133.35 90)
+			(uuid "d432d805-3b25-4baa-b4f0-bb92490b9ba3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TFT_CS" input
+			(at 135.89 133.35 90)
+			(uuid "74d0e8b7-8d42-466e-acab-5ea0bd853686")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TFT_D{slash}C" input
+			(at 138.43 133.35 90)
+			(uuid "36daee82-88e2-459f-800d-941c8ca9615a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TFT_RST" input
+			(at 140.97 133.35 90)
+			(uuid "e49bfae2-7c82-46b3-a036-92d66c8a39c9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TFT_SDCS" input
+			(at 143.51 133.35 90)
+			(uuid "522a4ccb-b712-41dc-b473-88e3e1d55054")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO_EXTI1" input
+			(at 151.13 133.35 90)
+			(uuid "583967d0-fd2d-4bfb-b224-2b4ee1cba6dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "GPIO_EXTI2" input
+			(at 153.67 133.35 90)
+			(uuid "fc0e5d95-f996-4fa2-af7e-83389db1920c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "sensor_logger"
+				(path "/a1d8277a-e824-4505-aa36-f5a77bb65b74"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

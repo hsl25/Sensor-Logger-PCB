@@ -1,0 +1,309 @@
+(footprint "USB4125GFA0190"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "USB4125-GF-A-0190-2")
+	(tags "Connector")
+	(property "Reference" "J**"
+		(at 0 -0.303 0)
+		(layer "F.SilkS")
+		(uuid "8f7c5485-a380-4972-b8cc-5042c246a70d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "USB4125GFA0190"
+		(at 0 -0.303 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c9c47f16-67e4-420f-bf19-d8e75c4881ac")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "198d2a0f-8d4f-4789-9450-35a5ed901fc4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "718c5762-b405-44ba-8f09-114866427215")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -4.47 2.2)
+		(end -4.47 3.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ac7b97d3-f035-40dd-a622-674113358496")
+	)
+	(fp_line
+		(start -4.47 3.4)
+		(end 4.47 3.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "45e454c9-1ae8-479d-b3f6-2c7602d05e3a")
+	)
+	(fp_line
+		(start -0.5 -4.3)
+		(end -0.5 -4.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c1c1113e-15ed-4f5c-be56-011f0003c4c8")
+	)
+	(fp_line
+		(start -0.5 -4.2)
+		(end -0.5 -4.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "98a5312f-4b46-444c-b498-c53b44742711")
+	)
+	(fp_line
+		(start 4.47 3.4)
+		(end 4.47 2.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0fe9d4a6-2ffb-4660-8ab0-e52cc22d3f79")
+	)
+	(fp_arc
+		(start -0.5 -4.3)
+		(mid -0.45 -4.25)
+		(end -0.5 -4.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f50e2105-09fb-4fc0-bb41-c3660fbfce14")
+	)
+	(fp_arc
+		(start -0.5 -4.2)
+		(mid -0.55 -4.25)
+		(end -0.5 -4.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "098823ae-95f7-46b4-bd5c-b78952787585")
+	)
+	(fp_line
+		(start -6.325 -5.005)
+		(end 6.325 -5.005)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4c8e91fd-dce8-49af-8f0f-eab3931747e4")
+	)
+	(fp_line
+		(start -6.325 4.4)
+		(end -6.325 -5.005)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0a11bf56-96bf-418d-9d0e-29d1722027b1")
+	)
+	(fp_line
+		(start 6.325 -5.005)
+		(end 6.325 4.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "662e2479-617b-4b6e-bbea-79c6523aa3f1")
+	)
+	(fp_line
+		(start 6.325 4.4)
+		(end -6.325 4.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "005d1b57-c1cc-4bfa-bf7e-157dd0688f2a")
+	)
+	(fp_line
+		(start -4.47 -3.4)
+		(end 4.47 -3.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "225180fa-036c-413f-8b0a-d2ffba632396")
+	)
+	(fp_line
+		(start -4.47 3.4)
+		(end -4.47 -3.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4a6b24bc-a86a-4cb8-be35-41460ec971fe")
+	)
+	(fp_line
+		(start 4.47 -3.4)
+		(end 4.47 3.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d898654d-45b5-493d-a128-e4d494e92b1e")
+	)
+	(fp_line
+		(start 4.47 3.4)
+		(end -4.47 3.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "78d1512d-0531-4327-b9d9-32c57e0a2629")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -0.303 0)
+		(layer "F.Fab")
+		(uuid "288c5e86-a04b-44a8-93be-52700131ec4c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "A5" smd rect
+		(at -0.5 -3.08)
+		(size 0.7 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "39f9ab9b-a094-4fee-b60c-94eeb4f01c4b")
+	)
+	(pad "A9" smd rect
+		(at 1.52 -3.08)
+		(size 0.76 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7f1bca35-e18d-40a7-a467-24a4718674cf")
+	)
+	(pad "A12" smd rect
+		(at 2.75 -3.08)
+		(size 0.8 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7a0dcce8-411b-434b-839e-128a365df576")
+	)
+	(pad "B5" smd rect
+		(at 0.5 -3.08)
+		(size 0.7 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "731c0695-b524-444e-b651-434874bd8539")
+	)
+	(pad "B9" smd rect
+		(at -1.52 -3.08)
+		(size 0.76 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e745b85e-2453-4387-9fb7-347a0b27731c")
+	)
+	(pad "B12" smd rect
+		(at -2.75 -3.08)
+		(size 0.8 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5676fe3e-0140-4f86-a7ec-19fbf86813c1")
+	)
+	(pad "MH1" thru_hole circle
+		(at -4.32 -3)
+		(size 2.01 2.01)
+		(drill 1.34)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "337a467c-ea7e-4476-ae00-973dffe1112a")
+	)
+	(pad "MH2" thru_hole circle
+		(at -4.32 0.8)
+		(size 2.01 2.01)
+		(drill 1.34)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c0b5a1d4-de5a-42b5-b703-ce30f105d28b")
+	)
+	(pad "MH3" thru_hole circle
+		(at 4.32 0.8)
+		(size 2.01 2.01)
+		(drill 1.34)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f679b261-ac15-4b1c-a077-184e190b2669")
+	)
+	(pad "MH4" thru_hole circle
+		(at 4.32 -3)
+		(size 2.01 2.01)
+		(drill 1.34)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "06df876a-59d9-4c5c-b9f8-fa1e693f5877")
+	)
+	(embedded_fonts no)
+	(model "USB4125-GF-A-0190.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+	(model "C:/Users/henoc/OneDrive/Documents/PCB Design/Sensor_Logger/USB4125-GF-A-0190/3D/USB4125-GF-A-0190.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

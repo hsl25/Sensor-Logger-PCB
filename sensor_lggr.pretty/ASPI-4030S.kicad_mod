@@ -1,0 +1,323 @@
+(footprint "ASPI-4030S"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "ASPI-4030S")
+	(tags "Inductor")
+	(property "Reference" "L**"
+		(at 0 -4.5 0)
+		(layer "F.SilkS")
+		(uuid "6fbc98ba-17cc-408b-958f-33eafc5c5e6e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "ASPI-4030S"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2a592761-fbdb-4a2c-9a98-fc9cc64477db")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "db36a42c-aedf-4227-8347-2ca84f5110cf")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1d901f66-b276-4121-95fc-e83188cb7416")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.6 0)
+		(end -2.6 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2e53637f-0c88-4a28-8798-07d502b01036")
+	)
+	(fp_line
+		(start -2.5 0)
+		(end -2.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b64bd490-c40a-43b7-9445-4ae2b0a7bca7")
+	)
+	(fp_line
+		(start -0.8 -2)
+		(end 0.8 -2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c77704f4-72fe-4d59-8c38-685073f361db")
+	)
+	(fp_line
+		(start -0.8 2)
+		(end 0.8 2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "70fa90ea-9225-4f2b-837b-7746dcc046cf")
+	)
+	(fp_arc
+		(start -2.6 0)
+		(mid -2.55 -0.05)
+		(end -2.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "46d67bbd-78c4-483f-ad55-579a6041e010")
+	)
+	(fp_arc
+		(start -2.5 0)
+		(mid -2.55 0.05)
+		(end -2.6 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e46c9e9e-e53c-4512-9ce6-032ccc85bc87")
+	)
+	(fp_line
+		(start -3.05 -3)
+		(end 3.05 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "24c6e934-5540-437e-8a09-5b7a0db0ad27")
+	)
+	(fp_line
+		(start -3.05 3)
+		(end -3.05 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fb590e11-c991-4f16-aeea-83192d37bf38")
+	)
+	(fp_line
+		(start 3.05 -3)
+		(end 3.05 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "62c5db11-33d5-4f57-84e7-fed2ead1b00d")
+	)
+	(fp_line
+		(start 3.05 3)
+		(end -3.05 3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "eb766234-2a01-4b47-a3f7-b42171357b94")
+	)
+	(fp_line
+		(start -2 -1.8)
+		(end -1.16 -1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a408db3c-525f-49eb-a6b6-afa6ee81f784")
+	)
+	(fp_line
+		(start -2 1.8)
+		(end -2 -1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ec30d4a9-7113-4b4f-9994-4e0d0eb033d8")
+	)
+	(fp_line
+		(start -1.2 -1.8)
+		(end -1 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a92320fe-28ea-45fe-8dd0-0d3f1f826f2a")
+	)
+	(fp_line
+		(start -1.2 1.8)
+		(end -2 1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0922ee5a-8f8c-4a46-a20e-f7f6ac9bd636")
+	)
+	(fp_line
+		(start -1 -2)
+		(end 1 -2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6f9f78d1-f611-49da-a09a-27b959a4e409")
+	)
+	(fp_line
+		(start -1 2)
+		(end -1.2 1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "246091f9-74ba-4d54-9640-5b6a11374291")
+	)
+	(fp_line
+		(start 1 -2)
+		(end 1.2 -1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "71f00916-cb0c-41cb-bf6e-01e1495ef532")
+	)
+	(fp_line
+		(start 1 2)
+		(end -1 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bf7914ce-f758-4369-8992-e75da8b749ed")
+	)
+	(fp_line
+		(start 1.2 -1.8)
+		(end 2 -1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "af836b2e-01a3-4576-b6c0-987da1a8198e")
+	)
+	(fp_line
+		(start 1.2 1.8)
+		(end 1 2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4f95a022-b89b-40cc-aaae-2f80ddb30d01")
+	)
+	(fp_line
+		(start 2 -1.8)
+		(end 2 1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fe753969-8292-40a9-85d5-001c8c74bdd8")
+	)
+	(fp_line
+		(start 2 1.8)
+		(end 1.2 1.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c87e9edc-47ae-481c-ac80-7f1ba6f7cf3a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "d57dbbe0-34cb-4fb3-87c2-dd0c7e04292b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.5 0)
+		(size 1.1 3.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "056c57f9-8d90-4b8d-9a1b-5d25dcfb5c0f")
+	)
+	(pad "2" smd rect
+		(at 1.5 0)
+		(size 1.1 3.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "12c620d6-46c8-42c7-b2df-273945fc1b3f")
+	)
+	(embedded_fonts no)
+	(model "ASPI-4030S-120M-T.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -180 90)
+		)
+	)
+	(model "C:/Users/henoc/OneDrive/Documents/PCB Design/Sensor_Logger/ASPI-4030S-120M-T/3D/ASPI-4030S-120M-T.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
+)
