@@ -1,4 +1,4 @@
-**PCB design project** 
+**Sensor Logger PCB design project** 
 
 The sensor logger board features an IMU, temperature and humidity sensor, LCD screen and micro-SD card data storage. It is a 2-layer board with the following layer stackup:
 
