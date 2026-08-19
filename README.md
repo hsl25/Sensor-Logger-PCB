@@ -8,5 +8,6 @@ The sensor logger board features an IMU, temperature and humidity sensor, LCD sc
 The board is currently being manufactured and components have been ordered. Updates about soldering and firmware testing will follow. 
 Please see the image below for a screenshot of the 3D view of the PCB.
 
-<img width="533" height="416" alt="3d_view" src="https://github.com/user-attachments/assets/3d9883dc-0b4d-450f-be9c-6490d3e74a12" />
+<img width="589" height="455" alt="image" src="https://github.com/user-attachments/assets/d1e9d11c-3e26-4952-a78c-623b42970b44" />
+
 
